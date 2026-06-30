@@ -22,3 +22,16 @@ header {
     display: flex;
     text-align: center;
 }
+
+a:link{
+    color: #c380a5;
+}
+a:visited{
+    color: #c380a5;
+}
+a:hover{
+    color: #ffa7d8;
+}
+a:active{
+    color: #694559;
+}
