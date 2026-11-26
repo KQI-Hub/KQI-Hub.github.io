@@ -5,20 +5,52 @@
    height="100"
    viewBox="0 0 250 100"
    id="svg24"
+   sodipodi:docname="KQI Logo.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   inkscape:export-filename="KQI Logo.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.9147243"
+     inkscape:cx="132.08796"
+     inkscape:cy="81.997463"
+     inkscape:window-width="1661"
+     inkscape:window-height="960"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg24"
+     showguides="false" />
   <defs
      id="defs28" />
   <path
      id="path2"
-     style="mix-blend-mode:normal;fill:#c380a5;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill-opacity:1"
-     d="M 0,0 V 100 H 11.098478 V 50.030199 0 Z M 11.098478,50.030199 69.593557,100 H 86 L 27.504919,50.052842 86,0 H 69.593557 Z" />
+     style="mix-blend-mode:normal;fill:#c380a5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     d="M 0,0 V 100 H 11 V 0 Z m 11,50 59,50 H 86 L 27,50 86,0 H 70 Z"
+     sodipodi:nodetypes="cccccccccccc" />
   <path
-     id="path8"
-     style="mix-blend-mode:normal;fill:#c380a5;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;fill-opacity:1"
-     d="M 125.00001,0 C 97.385948,0 75,22.385971 75,50.000001 c 0,27.614029 22.385958,50.000009 50.00001,50.000009 12.10519,0 23.2048,-4.301967 31.85523,-11.460348 l 8.52493,8.52494 c 0,0 4.12191,4.349308 7.77741,0.807946 3.04809,-2.952899 -1.261,-7.322466 -1.261,-7.322466 l -8.5136,-8.513611 C 170.63312,73.359683 175,62.191317 175,50.000001 175,22.385962 152.61404,0 125.00001,0 Z m 0,10.027561 c 22.07595,0 39.97242,17.896454 39.97242,39.97244 0,9.421042 -3.26686,18.073963 -8.71937,24.906558 L 135.68448,54.337978 c 0,0 -3.41795,-3.108414 -6.39371,-0.137804 -3.09676,3.091424 -0.12081,6.654209 -0.12081,6.654209 l 20.54781,20.547815 c -6.80303,5.362518 -15.38319,8.570242 -24.71776,8.570242 -22.07599,0 -39.972449,-17.896454 -39.972449,-39.972439 0,-22.075977 17.896459,-39.97244 39.972449,-39.97244 z" />
-  <path
-     d="M 238.97751,100 175,0 h 11.02236 l 63.97751,100 z"
+     d="M 239,100 175,0 h 11 l 63.99987,100 z"
      id="path16"
-     style="mix-blend-mode:normal;fill:#c380a5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0" />
+     style="mix-blend-mode:normal;fill:#c380a5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     id="circle14"
+     style="fill:#c380a5;fill-opacity:1;stroke-width:2.22534;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.5"
+     d="M 125 0 A 50 50 0 0 0 75 50 A 50 50 0 0 0 125 100 A 50 50 0 0 0 175 50 A 50 50 0 0 0 125 0 z M 125 11 A 39 39 0 0 1 164 50 A 39 39 0 0 1 125 89 A 39 39 0 0 1 86 50 A 39 39 0 0 1 125 11 z " />
+  <path
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#c380a5;stroke-linecap:round;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="m 133.5,53 a 5.5,5.5 0 0 0 -3.88867,1.611328 5.5,5.5 0 0 0 0,7.777344 l 35,35 a 5.5,5.5 0 0 0 7.77734,0 5.5,5.5 0 0 0 0,-7.777344 l -35,-35 A 5.5,5.5 0 0 0 133.5,53 Z"
+     id="path14" />
 </svg>
